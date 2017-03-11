@@ -1,0 +1,6 @@
+wordcloud
+pandas
+numpy
+matplotlib
+image
+scipy
